@@ -13,7 +13,7 @@ Provide a seamless way to search for helpful code snippet whie coding
 
 ### Identify and prioritize user stories
 
-As a _____, I want, _____ so that I can ________
+As a Joe Roggan fan, I want to learn more form life by attending to standup commedies so that I can understand things better.
 
 As a developer, I want to be able to write code into an editor so that I can build small features in a sandbox environment
 as a developer, I want to be able to search stack overflow when I'm stuck, so that I can continue on my project
